@@ -8,5 +8,5 @@ gitレクチャー用のリポジトリ
 リモートリポジトリにpushしたら、プルリクエストを使ってマージする。
 
 ## チームメンバー
-Manato
-Suzuki
+* Manato
+* Suzuki
